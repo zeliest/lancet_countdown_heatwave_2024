@@ -1,0 +1,2 @@
+Generate results for report and Appendix, based on both GPW and WorldPop data (only the WorldPop data is considered for the report)
+The notebook called "climada_change_vs_pop_growth" compares the effect of change in population to the effect of change in climate.
